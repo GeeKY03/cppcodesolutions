@@ -1,0 +1,12 @@
+                                                 ÝMenu
+
+                                       ÝFor addition enter '1'
+                                     ÝFor multiplication enter '2'
+                                      ÝFor subtraction enter '3'
+                                       ÝFor division enter '4'
+                                     ÝFor exponentiation enter '5'
+                                  ÝFor calculating square root enter '6'
+
+************************************************************************************************************************
+
+Enter your choice: Enter the first value: The Square root is 5.000000.
